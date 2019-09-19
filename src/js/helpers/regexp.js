@@ -1,0 +1,1 @@
+export const regexpEmail = /^\S+@[a-z]+\.[a-z]+$/;

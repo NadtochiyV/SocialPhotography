@@ -1,1 +1,1 @@
-# SocialPhotography
+# photograps_social
